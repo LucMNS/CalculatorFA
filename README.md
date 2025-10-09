@@ -4,7 +4,7 @@ Este é um projeto de uma calculadora web simples, desenvolvida para praticar e 
 
 ## 🎨 Visual
 
-![Demonstração da Calculadora]<img width="1913" height="903" alt="image" src="https://github.com/user-attachments/assets/4e5fc149-6608-4e78-b9f6-6cad5346ba0f" />
+<img width="1913" height="903" alt="image" src="https://github.com/user-attachments/assets/4e5fc149-6608-4e78-b9f6-6cad5346ba0f" />
 
 
 ## ✨ Funcionalidades
