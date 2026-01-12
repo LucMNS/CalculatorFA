@@ -38,4 +38,4 @@ Existem duas formas de executar o projeto em sua máquina local:
 Este projeto está sob a licença MIT.
 
 ---
-Feito por Lucas | https://github.com/DevLucsMNS
+Feito por Lucas | https://github.com/LucMNS
